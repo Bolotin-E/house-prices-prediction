@@ -2,6 +2,10 @@
 
 🏠 Machine learning regression project focused on predicting residential property prices using feature engineering and CatBoost.
 
+
+<img width="2681" height="1285" alt="House Price Analytics Dashboard" src="https://github.com/user-attachments/assets/584397aa-c535-4ed9-bd31-696e5edf180a" />
+
+
 ---
 
 # Project Overview
