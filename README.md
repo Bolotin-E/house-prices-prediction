@@ -133,7 +133,12 @@ Evaluation Metric:
 
 ### Results
 
-The CatBoost model achieved competitive performance while requiring minimal preprocessing for categorical variables.
+- Best Kaggle Public Score: **0.12335 RMSE**
+
+- Model: **CatBoost Regressor**
+
+- Feature Engineering: Custom domain-specific features
+
 
 ---
 
